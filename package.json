@@ -1,0 +1,28 @@
+{
+  "name": "github-jira-sync",
+  "version": "0.0.1",
+  "author" : "Stephanie Schneider",
+  "main": "./sync.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stephanieerin/github-jira-sync.git"
+  },
+
+  "dependencies": {
+    "underscore": "1.4.2",
+    "request": "2.14.x",
+    "utf8": "1.0.0",
+    "asyncawait": "0.7",
+    "github": "0.2.x",
+    "jira": "0.10.x"
+  },
+
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+
+  "bin": {
+    "github-jira-sync": "./bin/github-jira-sync"
+  }
+}

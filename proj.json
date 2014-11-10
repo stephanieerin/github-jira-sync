@@ -1,0 +1,29 @@
+{
+  "jira": {
+    "protocol": "https",
+    "host": "www.owfgoss.org/jira",
+    "port": "",
+    "user": "ozp-jira-github",
+    "password": "Pa22word",
+    "defaultApi": {
+      "version": "2"
+    },
+    "greenhopper": {
+      "version": "1.0"
+    },
+    "project": "Sandbox"
+  },
+  "github": {
+    "user": "stephanieerin",
+    "repo": "github-jira-sync",
+    "auth": {
+      "type": "basic",
+      "username": "ozp-jira-github",
+      "password": "Pa22word!"
+    }
+  },
+  "userMapping": {
+    "sschneider": "stephanieerin",
+    "admsschneider": "stephanieerin"
+  }
+}
