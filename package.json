@@ -12,7 +12,7 @@
     "underscore": "1.4.2",
     "request": "2.14.x",
     "utf8": "1.0.0",
-    "asyncawait": "0.7",
+    "async": "0.2.6",
     "github": "0.2.x",
     "jira": "0.10.x"
   },

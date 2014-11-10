@@ -15,7 +15,9 @@
   },
   "github": {
     "user": "stephanieerin",
-    "repo": "github-jira-sync",
+    "repos": [
+      "github-jira-sync"
+    ],
     "auth": {
       "type": "basic",
       "username": "ozp-jira-github",
