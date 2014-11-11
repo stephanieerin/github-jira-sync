@@ -16,7 +16,7 @@
   "github": {
     "user": "stephanieerin",
     "repos": [
-      "github-jira-sync"
+      "jira-github"
     ],
     "auth": {
       "type": "basic",
